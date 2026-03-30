@@ -61,11 +61,11 @@ The goal was to transform raw survey responses into a clean, visually compelling
 
 ├── data/
 
-│   └── Power BI - Final Project.xlsx    # Raw survey data
+│   └── Database - Data Professionals Survey.xlsx    # Raw survey data
 
 └── dashboard/
 
-│    └── Final_Project.pbix               # Power BI dashboard file
+│    └── Dashboard - Data Professionals Survey.pbix               # Power BI dashboard file
 
 ## 🚀 How to Reproduce
 
