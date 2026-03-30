@@ -56,16 +56,6 @@ The goal was to transform raw survey responses into a clean, visually compelling
 - **Dashboard Design:** Single-page layout with consistent theme
 - **Data Modelling:** Clean schema after transformation
 
-## 📁 Repository Structure
-├── README.md
-
-├── data/
-
-│   └── Database - Data Professionals Survey.xlsx    # Raw survey data
-
-└── dashboard/
-
-│    └── Dashboard - Data Professionals Survey.pbix               # Power BI dashboard file
 
 ## 🚀 How to Reproduce
 
