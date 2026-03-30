@@ -60,10 +60,12 @@ The goal was to transform raw survey responses into a clean, visually compelling
 ├── README.md
 
 ├── data/
+
 │   └── Power BI - Final Project.xlsx    # Raw survey data
 
 └── dashboard/
-    └── Final_Project.pbix               # Power BI dashboard file
+
+│    └── Final_Project.pbix               # Power BI dashboard file
 
 ## 🚀 How to Reproduce
 
